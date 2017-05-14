@@ -1,6 +1,5 @@
 #include <iostream>
 #include <set>
-#include <chrono>
 
 #include "dynamic_set.h"
 
